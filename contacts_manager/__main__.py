@@ -1,5 +1,4 @@
 import sys
-from unittest import expectedFailure
 
 from contacts_manager.contact import Contact
 from contacts_manager.data import Data

@@ -1,4 +1,6 @@
 class Contact:
+    """class that manages the contact"""
+
     def __init__(self, name, surname, telephone, email):
         self.name = name
         self.surname = surname
