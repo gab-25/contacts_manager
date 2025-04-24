@@ -1,5 +1,5 @@
 # contacts_manager
-Software per gestione rubrica di contatti
+Progetto modulo: Programmazione con Python, del master AI Engineering di Profession AI
 
 ## Software di una rubrica di contatti con Python
 ContactEase Solutions mira a semplificare la gestione dei contatti telefonici per i propri utenti, sviluppando un software intuitivo e interattivo che ottimizza l’organizzazione e l’accesso alle informazioni personali.
